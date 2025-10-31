@@ -1,1 +1,3 @@
 # IoT-perusteet_C
+
+Few coding exercises in C-language...
